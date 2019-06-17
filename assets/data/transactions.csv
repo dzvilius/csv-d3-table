@@ -1,101 +1,101 @@
-id,date,payee,amount,category,account
-58d3b936-4015-4c3d-ab72-c1f2b4e843c2,25-Aug-2019,Yakitri,55.04,Automotive,Cash
-5f88e9ef-a4eb-4b98-8a1f-3e6e2e02ce7d,17-May-2019,Topiclounge,24.46,Grocery,Cash
-b8e571ff-caae-4202-a085-008386225cbf,26-Feb-2019,Buzzbean,13.86,Industrial,Cash
-86ee41cf-412d-45eb-a45e-283fed700f43,22-Jul-2019,Skipstorm,3.59,Jewelery,Cash
-db53830d-6c5c-4576-aaf2-a2d610fe70f9,12-Sep-2019,Twitternation,31.93,Garden,Bank Account
-bf504a8e-6f83-40ae-ac5c-386daf058717,16-Dec-2019,Blognation,-98.76,Computers,Bank Account
-fcf5977d-eb2e-4eeb-92c6-251e548cde5a,09-Aug-2019,Meembee,-71.81,Toys,Bank Account
-04487386-2248-4391-8e7a-34ec4775ddde,08-Dec-2019,Zoozzy,-92.56,Grocery,Cash
-e40846d3-aaac-4ce2-90ed-acd26d8f4328,20-Jun-2019,Meeveo,38.46,Health,Cash
-76b97b83-a5d3-4c7c-a825-38f8b24d97dd,30-Dec-2019,Chatterpoint,57.17,Clothing,Cash
-d5ac5bb1-9e9c-431a-a726-837284fc4d20,13-Apr-2019,Yoveo,-19.67,Automotive,Bank Account
-1e9efc74-d189-496c-8b55-cdcce03ae7ac,08-Jul-2019,Jazzy,90.51,Sports,Bank Account
-43b61489-dde6-487f-a0e5-f0b1efe9043c,22-Jan-2019,Riffwire,38.25,Electronics,Cash
-66d3e70f-3d1c-41bd-b80e-13f37bc11a77,08-Aug-2019,Fatz,-96.35,Games,Cash
-d2c07433-9a8b-4ee6-9e96-962f371473df,27-Nov-2019,Linkbridge,66.64,Grocery,Bank Account
-f414d0d6-e164-4d82-ae47-c55f004f2e40,11-Dec-2019,Thoughtworks,22.12,Games,Cash
-0043967f-36b5-4c33-941a-162bd837a7be,25-Nov-2019,Rhynoodle,49.89,Grocery,Bank Account
-f207fe64-2fda-401b-9297-e2b1c840441c,23-Sep-2019,Skinte,-81.33,Toys,Cash
-8944be2d-92e5-440b-94a8-e6df6969e3f0,08-Jul-2019,Browsedrive,20.48,Games,Bank Account
-a13a3bbf-76f3-4d60-a650-18530dd579c1,21-Feb-2019,BlogXS,80.13,Baby,Bank Account
-c73b2e5b-4697-42e5-bff5-ba04217d52e1,29-Oct-2019,Omba,-85.89,Clothing,Bank Account
-f8450e37-601c-44f6-9095-6adef93bbb84,10-Sep-2019,Jaxworks,12.02,Garden,Bank Account
-404daf99-9b44-4b7d-b1cc-0114fb5c238a,05-Jan-2019,Yambee,-74.89,Baby,Cash
-e4c35420-77bb-48a7-947b-7462869fef45,04-May-2019,Midel,-7.44,Toys,Cash
-20276561-bf00-4bab-89f8-d10b0e0c5c19,17-Apr-2019,Thoughtstorm,-12.23,Electronics,Bank Account
-24c1fd91-99c0-4df0-a1a7-a2114ff24c19,13-Dec-2019,Yodoo,81.76,Music,Bank Account
-3b842101-2d2f-43df-80e9-00c19b57e89b,21-Jun-2019,Brightdog,-30.17,Grocery,Cash
-3a8e6541-a03c-4b53-a618-8d46fda7f1b6,15-Dec-2019,Mita,-74.52,Games,Bank Account
-6cbba560-fda2-4ce5-85bf-7a956dea774b,29-Dec-2019,Ntags,40.84,Health,Cash
-54846daa-b859-47f1-ac5b-f7f167713c54,11-Feb-2019,Mita,-12.00,Computers,Bank Account
-154924f7-65c8-46c1-b179-b6b0de7ffbf8,03-Aug-2019,Yodoo,-99.41,Tools,Cash
-9c21bf53-0a83-42fa-b895-14af607da276,29-Sep-2019,Kare,-41.63,Beauty,Bank Account
-468d6d89-bf05-493f-a5b7-66c07d533955,28-Jan-2019,Kamba,-70.87,Baby,Cash
-6f790e68-9d93-4e98-bf7b-2764c9b7e546,31-Jan-2019,Leenti,30.99,Home,Cash
-09be5f63-9d61-4458-882c-6a8563f3328b,06-May-2019,Myworks,31.70,Automotive,Bank Account
-08a8711f-706f-44a3-a4d7-f094be5e6313,10-Jun-2019,Tanoodle,-86.94,Automotive,Cash
-ab30fb1a-626a-46bd-8ad2-8180171bc572,18-Dec-2019,Mita,-40.22,Garden,Bank Account
-d29ca310-8932-4258-ba18-260b13c85f61,30-Nov-2019,Blognation,29.80,Clothing,Bank Account
-f370fd9c-8452-4e03-a6fe-3bcf9b216585,26-Oct-2019,Oyonder,86.77,Grocery,Bank Account
-4886507b-70f9-4a8a-b8f6-0e2dcd0954cd,13-Dec-2019,Yabox,-34.25,Tools,Cash
-38e7293d-0866-423a-bcca-f95772f60935,08-Sep-2019,Quamba,3.91,Health,Bank Account
-5d95dec7-da59-4ec4-ab7e-e711dfb3debf,12-Jun-2019,Pixope,-66.56,Shoes,Bank Account
-e2af7937-b84d-4e40-9531-5396343640d1,08-Sep-2019,Shufflester,42.33,Grocery,Bank Account
-8f579372-ac0e-4640-b71b-e2c2cc87163a,10-May-2019,Topicstorm,-31.48,Jewelery,Bank Account
-007937be-cec3-46d1-adc0-d8c282f640eb,04-Aug-2019,Gigaclub,49.03,Games,Cash
-72ebe6e9-8881-4f84-bf05-c45a8e9753ae,30-Jul-2019,LiveZ,62.91,Garden,Bank Account
-0ca159be-c7ab-4dbb-a80b-3882c04630fc,30-May-2019,Realbuzz,90.99,Health,Cash
-fe721dc2-6487-49df-9504-db53fba6e47a,09-Apr-2019,Skyndu,-68.78,Industrial,Cash
-5041717b-d328-4178-8735-059c855b2ca5,23-Jun-2019,Fliptune,25.48,Garden,Cash
-545fbb13-f285-48a8-8684-c822bc0fa77c,20-Dec-2019,Twitternation,99.83,Grocery,Cash
-e4e230ea-cdef-41fc-ac7b-b437e6f720ea,12-Jul-2019,Skibox,-64.60,Beauty,Cash
-67f506b2-2ad7-48a3-9902-03a3a113c1e9,03-Jul-2019,Skinder,30.55,Home,Bank Account
-f338662b-99d6-4664-834d-b119dddbf7cd,05-May-2019,Shufflester,12.62,Movies,Bank Account
-dba8a5e7-4886-4320-9ace-1ea4c978feee,10-Aug-2019,Meeveo,-87.09,Jewelery,Bank Account
-c74a9659-56af-43fe-8208-a56498499d74,25-Aug-2019,Shufflester,76.45,Electronics,Bank Account
-2f94dadd-9f41-45a7-8dd7-d3b967f1e551,05-Jan-2019,Linkbridge,84.71,Industrial,Bank Account
-f8e51318-cf0a-4956-9436-a7542f2e2bbd,11-Mar-2019,Avamba,-44.11,Kids,Bank Account
-ca0ec073-12f3-4b42-b060-22e45a663d71,13-Aug-2019,Mymm,41.74,Clothing,Bank Account
-d8f51ab0-9a56-4090-9941-cf9cfb028a08,12-Nov-2019,Quimm,-16.05,Jewelery,Cash
-b2cc778c-8e9c-4d28-ab7a-c9e375039952,04-Dec-2019,Tagcat,-55.73,Games,Bank Account
-a9f6a893-ed41-48b5-928f-9b995eaf20f9,30-May-2019,Yambee,69.88,Baby,Bank Account
-f45aa64a-a448-4918-a4fd-b716931866c1,18-Oct-2019,Jaloo,9.60,Home,Bank Account
-412694db-58d4-4ade-8862-e591502545f6,24-Apr-2019,Jaxbean,-46.53,Books,Bank Account
-b16b5120-c6ff-4143-819f-33de507e1516,09-Jan-2019,Kwideo,-62.30,Industrial,Cash
-d0dbcba7-e5c0-4f41-b4f5-f18378ffda1b,26-Jun-2019,Kayveo,-26.62,Computers,Bank Account
-eca4f2fc-caf6-4677-82e2-54242c6585b9,03-Jun-2019,Yodo,-33.06,Outdoors,Bank Account
-6bd307a1-cd28-4b80-bc8d-e2f55d3cff15,11-Oct-2019,Jabberbean,-38.74,Sports,Bank Account
-1c78c138-5f66-4794-b0e2-391636cf3923,23-Jul-2019,Nlounge,47.56,Music,Bank Account
-2cb030b4-6128-4a63-ba59-5cb466789762,25-Feb-2019,Gigazoom,96.78,Books,Bank Account
-64579a74-41b8-48d1-8f94-d9fd1a02d841,05-Sep-2019,Quimba,-82.16,Clothing,Cash
-192f2de4-c474-4c1b-84cc-7d89479a1589,12-Aug-2019,Shuffledrive,-11.71,Garden,Cash
-d4f76dd7-6d62-4da0-93a8-705c4f5f9f69,07-Mar-2019,Topiclounge,41.25,Home,Bank Account
-62dd7a22-f7df-42cd-a66d-da9abda626f3,11-Aug-2019,Wikizz,71.64,Beauty,Bank Account
-114bbf94-9cd8-4414-9353-775726b96ace,18-Apr-2019,Rhycero,82.00,Garden,Bank Account
-36befb6f-88e2-43d0-9a1d-ae53c00dba15,29-Dec-2019,Oyonder,92.99,Sports,Bank Account
-646ee58e-832c-4ae3-ac91-4b059a7509ec,10-Apr-2019,Roomm,-93.70,Baby,Bank Account
-13f3c56d-e829-4ae4-808a-0fa10d34c58e,12-Aug-2019,Photolist,60.33,Health,Cash
-4ac4b3da-1d4c-4e72-966e-fda4467e3b88,22-Jun-2019,Rhynyx,95.96,Books,Bank Account
-b46d8b7d-c507-4109-8c2a-32eba8653aba,11-May-2019,Innojam,23.74,Grocery,Cash
-6be04777-3205-450e-be40-514277c77368,19-Sep-2019,Mycat,32.89,Beauty,Bank Account
-b7ab9433-51a0-49a0-aca4-661c7bb66498,02-Apr-2019,Muxo,87.98,Toys,Cash
-67284004-3cf8-401a-bb63-e41a78f202cb,27-Sep-2019,Meezzy,-68.31,Music,Cash
-9a65d1fb-89b5-40a0-a980-6e2b44d93489,11-Dec-2019,Mybuzz,64.11,Music,Cash
-291b7921-3982-4981-bf0e-fddd446816b9,04-Dec-2019,Jabbercube,20.85,Music,Bank Account
-bccc5311-1336-47dd-9b19-fe30ec10d762,27-Jun-2019,Aivee,-4.24,Clothing,Bank Account
-b8b88b42-2be1-4a43-ba8c-fe853f00585c,19-Feb-2019,Youspan,25.06,Shoes,Bank Account
-295f185c-f17f-401b-8e52-3aa98bb8ceed,15-Jan-2019,Trunyx,-86.50,Automotive,Cash
-70e7cc4c-66b0-4b20-9c73-46ea92621d47,03-Dec-2019,Twinder,43.61,Garden,Bank Account
-af1cea17-a55b-4a4e-a6fe-feb62180f9f8,22-Jan-2019,Tambee,90.67,Movies,Cash
-98f96cb2-2687-4c7b-a170-09241ccb14ed,08-Feb-2019,Browsecat,-21.39,Grocery,Cash
-2a526231-c7a2-40b0-8932-fd9bd3428e64,11-Aug-2019,Brainbox,38.76,Automotive,Cash
-034ce571-943f-4302-8a57-d93498485636,08-Aug-2019,Aivee,12.64,Garden,Cash
-2ed96e7c-d8ef-4e4e-a594-80898febb4f3,21-Nov-2019,Shufflester,39.18,Toys,Bank Account
-7a37a218-8a34-498b-92f2-61cbe7d5d99e,31-May-2019,Mita,61.73,Movies,Cash
-2219f831-3554-461b-ac3e-0ad137db11ae,12-Nov-2019,Jayo,10.52,Industrial,Cash
-edc41563-594c-4af5-bff2-ed117099b84a,08-Oct-2019,Oozz,23.60,Sports,Bank Account
-90951daa-611f-481f-af5b-b7da3d20009a,27-Aug-2019,Oyope,8.96,Outdoors,Cash
-46f8c423-3fe7-4064-91dc-7caa115cdc0a,09-May-2019,Gabcube,65.99,Automotive,Bank Account
-bd4983e0-a44f-4d7e-b159-1a290c9715b0,14-Nov-2019,Gigabox,20.47,Home,Bank Account
-d9b07d6c-95f1-400d-9dc0-f9b2082a3de7,01-Mar-2019,Eamia,-39.96,Outdoors,Cash
+id,date,payee,category,account,amount,uid
+1,15-Dec-2019,Trudoo,Industrial,Cash,-8.71,0afebba0-6e0f-416e-8b0c-3d7461db0d6d
+2,11-Aug-2019,Voomm,Automotive,Cash,82.46,576589e5-1145-4e41-9a8b-68611aaf2e75
+3,25-Jul-2019,Abatz,Home,Bank Account,72.89,13f38c3d-48dd-4881-8fd2-cc1c7f9884ef
+4,07-Mar-2019,Kwinu,Shoes,Cash,-70.07,e1def04f-b1f6-4929-8835-bf0c7cc88392
+5,03-Jul-2019,Oyoloo,Tools,Bank Account,15.16,21553fd9-e3a6-4561-bdc8-d03bb604e083
+6,06-Jul-2019,Skilith,Sports,Bank Account,-62.74,c85aed5f-1a2b-4b13-847e-40939aaab7a5
+7,28-Jun-2019,Dynazzy,Music,Bank Account,-23.00,3ebc655d-83e1-4d67-b132-42005774cf08
+8,18-Feb-2019,Skimia,Industrial,Bank Account,-64.32,fdc2c1c3-793d-4a5f-92a7-94e26a2f0b19
+9,05-Jun-2019,Jabberstorm,Jewelery,Cash,-12.42,4910f078-94b5-4b01-8eb2-9eb0e2dc3e79
+10,06-May-2019,Voomm,Movies,Bank Account,-27.27,db912036-8028-4136-8586-284d20f968a4
+11,15-Sep-2019,Devbug,Outdoors,Cash,81.86,ba43d5c5-4fa2-4e1e-b229-6cc309caab05
+12,12-May-2019,Kaymbo,Music,Bank Account,-59.94,3fc02272-6fbd-4c56-9d20-d4aca2220c9b
+13,23-Sep-2019,Babblestorm,Health,Bank Account,-9.03,c3e1109f-d633-4e39-86eb-7715037d800f
+14,18-Mar-2019,Yombu,Music,Cash,-0.49,7b67dee5-6ec8-4678-8cf7-022fc8276c2e
+15,11-Aug-2019,Blognation,Baby,Bank Account,-67.00,40604782-609f-479c-b2ba-1ea995965d9f
+16,14-Jun-2019,Dabtype,Baby,Cash,96.93,f1f92a10-ef89-49ca-87ca-6a0a4d5fdbfe
+17,17-Jun-2019,Wikibox,Games,Cash,-19.87,b95fced5-7644-4562-957d-f88efdaecbda
+18,15-Feb-2019,Ntags,Sports,Cash,21.57,a68e4248-e77e-45aa-a4d9-6b51346b784d
+19,11-Dec-2019,Buzzshare,Sports,Bank Account,-8.54,bba67737-d2f5-4c3c-8bad-2b7c616b513a
+20,17-Jun-2019,Flipstorm,Electronics,Bank Account,62.41,3f642258-ebca-41f2-b59e-18745e9c587e
+21,15-Jun-2019,Muxo,Sports,Cash,64.93,67fa50f1-7597-4fa2-8564-83ecdfd9a3ef
+22,19-Nov-2019,Buzzster,Music,Cash,-21.53,9b5e10e6-7463-47da-b889-239fe91fb96e
+23,13-Jun-2019,Lajo,Grocery,Cash,3.80,f87927cf-f9c6-4c94-b47f-29c5bfcd8b2f
+24,13-Apr-2019,Twinte,Toys,Cash,43.60,634e059e-bf51-4e70-bd1a-fae6b79ae538
+25,21-May-2019,Avaveo,Clothing,Bank Account,55.06,1522dab7-965a-420c-afc8-1418b6b482c4
+26,09-Jun-2019,Voonyx,Computers,Cash,43.02,bf7802cd-02c8-45cf-8ed3-dee234a54ca9
+27,22-Apr-2019,Jaxnation,Garden,Bank Account,-3.88,b07c7338-ac57-48f3-b0cc-0ee9ca78e98c
+28,06-Jun-2019,Aimbo,Outdoors,Bank Account,-53.40,23f58e07-bffb-4743-b6b4-68f790ccb610
+29,29-Jan-2019,Browsecat,Grocery,Bank Account,6.13,c589362b-f3ac-4b0d-81ca-303d90666a55
+30,29-Aug-2019,Kazio,Clothing,Bank Account,-32.47,c6bdac2e-9a87-4b00-abff-57d4ec07ac24
+31,09-Nov-2019,Browseblab,Shoes,Cash,-87.81,1e231a79-74ac-47ec-8fc4-3b3bfeec838b
+32,03-Jun-2019,Twitterlist,Computers,Bank Account,-89.54,6b17f1e4-111c-44f4-9df5-a2ce6a0a1af1
+33,17-Mar-2019,Zoomcast,Health,Bank Account,42.15,eae5bf7f-4dce-432a-b980-9632d1abc514
+34,27-Sep-2019,Babblestorm,Movies,Cash,57.69,2da541d6-e47a-4e6e-acd1-c0de674deea7
+35,07-Jun-2019,Divape,Baby,Cash,-29.57,1bc5457d-c8ca-4f32-a820-55242fec6113
+36,12-Feb-2019,Photolist,Movies,Cash,-42.59,7477295b-75d1-495c-8818-c758ddd0726f
+37,03-May-2019,Roomm,Outdoors,Bank Account,91.39,c29d8c40-a7ae-43b6-998c-70b434ee2033
+38,05-Aug-2019,Jabberstorm,Sports,Cash,98.62,9de42a80-0db1-4d60-9030-8d2146ab773c
+39,10-Aug-2019,Ainyx,Health,Cash,-65.27,086d2fb1-cc2c-4991-a518-b6e406cce744
+40,18-Nov-2019,Tazzy,Sports,Cash,74.56,b7d17434-9381-4956-b9c7-8e27f83332b5
+41,13-Feb-2019,Blogspan,Automotive,Cash,56.14,5bdb8c17-2381-40cd-a6a4-395d34cc1d4a
+42,16-Feb-2019,Meembee,Sports,Cash,-58.73,94d9092c-99d0-467d-9ad9-db2e0ceda074
+43,11-Mar-2019,Dablist,Music,Bank Account,4.65,f418adb7-d40f-40c2-8074-8204baba7d4b
+44,25-Mar-2019,Blogtags,Beauty,Bank Account,95.60,131368cd-95f7-4c97-8660-81fd1c83d370
+45,01-Oct-2019,Kanoodle,Computers,Cash,-80.69,fad276b9-5080-4586-97cd-9bf7e9cb698a
+46,28-Jul-2019,Realbuzz,Games,Cash,68.62,5f6cbed1-ae1a-4a5a-837d-eaac9dfec51d
+47,24-May-2019,Fivechat,Shoes,Bank Account,-33.88,81738ed8-accd-4df0-9ac5-e98468082ff2
+48,15-Sep-2019,Nlounge,Health,Cash,-99.58,8373b664-5819-4e2c-a993-a3092fb4c43a
+49,15-Dec-2019,Voonyx,Home,Cash,-81.82,cb75cc8a-65ae-48ed-b75d-46e9df5cd338
+50,18-Nov-2019,Shufflester,Beauty,Bank Account,-68.20,d043e267-0f13-4bf6-ba8f-57b4fb24d1e2
+51,13-Dec-2019,Feedfire,Movies,Bank Account,-41.36,7c0cd18d-6c48-4a89-8fa1-c928b5369194
+52,02-Jun-2019,Rhynoodle,Industrial,Cash,87.92,f2af1181-5aaf-438e-97d7-216c1e5b7bc2
+53,24-Dec-2019,Shuffledrive,Beauty,Bank Account,14.10,30070cb5-6258-4824-bd44-52730f800dcb
+54,21-Jun-2019,Mynte,Books,Cash,-24.23,18a1a819-65bd-4e24-83cf-cfe0b02796ae
+55,17-May-2019,Linkbridge,Beauty,Cash,-0.26,d1a650d6-d101-4054-a742-3af90fc5621c
+56,11-Aug-2019,Flashdog,Electronics,Bank Account,22.62,9ddbaa10-f379-40e4-908f-5a1bc56eba5f
+57,27-Sep-2019,Plambee,Beauty,Bank Account,-66.58,14153d0b-7530-4a4b-9b29-574968297682
+58,15-Feb-2019,Thoughtstorm,Automotive,Bank Account,-21.89,7e2fdedb-8b44-40cc-8a87-14a5aa9ea42f
+59,01-Oct-2019,DabZ,Garden,Bank Account,5.15,d1a0afd0-57d7-4bd9-8194-981d03cadd24
+60,12-Aug-2019,Yamia,Games,Cash,39.21,979c0aba-ed1c-4e27-99ce-0b123ba4225c
+61,08-Nov-2019,Demizz,Sports,Cash,26.18,b8b55f07-45dc-43c6-bddd-b8a9092f3bfd
+62,26-Sep-2019,Photojam,Music,Bank Account,81.07,831bdd75-4779-4b6b-bc21-1fc2a0dc821f
+63,01-Jul-2019,Topicshots,Grocery,Cash,-24.83,28d8073b-80ad-42f1-b182-0b93180ccce7
+64,25-Jan-2019,Blogtags,Grocery,Cash,-90.92,453cdb8d-c705-4c82-a284-5046bf953744
+65,29-Oct-2019,Tagpad,Industrial,Cash,-38.85,74d58f38-92ec-4d38-9e47-ddbbe4ea423f
+66,17-Feb-2019,Plajo,Grocery,Cash,16.81,3b4501d9-7691-489b-abd6-e545d6522355
+67,05-Mar-2019,Dabjam,Shoes,Bank Account,-18.89,81081de6-b432-488f-8b58-54dc0403643d
+68,28-Dec-2019,Meevee,Automotive,Cash,61.45,34b7385b-089c-46e9-81fa-416b5d935f62
+69,23-Aug-2019,Oozz,Computers,Bank Account,10.56,f1689990-14a6-4ccd-805b-2e4a231c4aec
+70,07-Sep-2019,Innojam,Garden,Bank Account,-12.83,842ed75e-b99e-4477-88f3-44216115ecfa
+71,28-Oct-2019,Einti,Electronics,Cash,-23.90,9d8fbe38-6269-475c-8cb8-159031bc801d
+72,03-Sep-2019,Feedmix,Sports,Cash,6.52,b2c36335-fa78-456e-b22a-9a1222386043
+73,01-Mar-2019,Devcast,Shoes,Cash,35.63,34acb0bb-d74d-4d1a-aa66-604a88a77beb
+74,07-Feb-2019,Eabox,Computers,Bank Account,-74.53,51d52096-d198-4e45-8ba5-267554eb57f8
+75,11-May-2019,Jatri,Toys,Cash,74.60,fa1a7fb5-980f-49a3-8814-57a2cecf0fd8
+76,30-Nov-2019,Dabjam,Home,Bank Account,43.53,2db67ecc-5fd5-438c-839c-e42300d599e9
+77,15-Aug-2019,Dabtype,Electronics,Bank Account,70.28,0fbc62fa-a2d0-4698-8012-38d7ff321fc3
+78,07-Feb-2019,Plambee,Outdoors,Bank Account,-62.01,c503942d-f702-4e57-8ead-d35259e61ec4
+79,19-Jun-2019,Tagpad,Movies,Cash,-82.60,39e0c455-8754-4955-a197-8e4614f26cc2
+80,30-Nov-2019,Topicblab,Clothing,Cash,90.90,5bd08618-6d2e-4544-8dfb-f093cbace1bd
+81,22-Feb-2019,Fiveclub,Beauty,Cash,-59.03,559509d3-add6-4a00-b981-1843c1334bce
+82,15-Mar-2019,Flashset,Music,Bank Account,23.54,3e4d04c1-155b-44c5-bc50-6abc3d43c871
+83,08-Jan-2019,Kare,Movies,Cash,-10.01,45eac6f7-f244-4aa9-b357-62b6617ac6b9
+84,05-Apr-2019,Yotz,Automotive,Bank Account,-25.80,1b263fa8-9055-4077-b8c2-8fd91fee1938
+85,14-May-2019,Jaloo,Books,Cash,19.06,a8b84cca-61c1-4b17-9f1e-6fdfbeb406d5
+86,10-Sep-2019,Bubbletube,Movies,Bank Account,-19.16,be27fcb4-fc0d-436d-8912-1055775ef926
+87,30-Nov-2019,Thoughtbridge,Home,Bank Account,-3.22,541bf517-0374-4253-9e86-cbdb16b02092
+88,11-Jun-2019,Fivebridge,Garden,Cash,-67.35,79df41b5-2b42-496c-b64e-97e3ed19182e
+89,01-Oct-2019,Janyx,Toys,Bank Account,-70.76,7ced832d-59ca-4452-8c22-7b1dc9c795d2
+90,14-Apr-2019,Tekfly,Movies,Cash,-22.70,2e12975b-a85f-44fa-aa7d-908920b4d86f
+91,06-Mar-2019,Skipfire,Outdoors,Cash,53.41,03356da6-68c5-48eb-8524-376ac6866da5
+92,03-Jun-2019,Wikizz,Jewelery,Cash,0.36,5f2649bc-6bde-461b-926e-944c566c0260
+93,28-Jun-2019,Tagpad,Beauty,Cash,35.42,9efa5ca5-edd7-4ec3-b762-f10b4b3b1efe
+94,24-Jul-2019,Oyoyo,Kids,Bank Account,-77.76,4022f3a0-73b5-4204-8652-b6f63f099413
+95,16-Aug-2019,Brainbox,Games,Bank Account,32.15,32b877e6-ebf4-4b92-b0aa-060337991b14
+96,01-Sep-2019,Tagopia,Kids,Cash,-72.89,7d3c845a-ff94-4589-b84c-8549488b2641
+97,23-Sep-2019,Zoozzy,Music,Cash,-69.29,62a391df-9950-43dd-a038-b7bb65059829
+98,02-Oct-2019,Thoughtblab,Baby,Cash,-3.76,5cda5690-9eb2-4cc8-9720-a166bbbd27a3
+99,17-Jun-2019,Yoveo,Baby,Cash,65.49,f1b389e7-66d2-42b5-9933-2f7a012b8b80
+100,24-Mar-2019,Zoomlounge,Clothing,Cash,-28.69,aa50d140-1c1c-4e81-ac13-6a130b80464d

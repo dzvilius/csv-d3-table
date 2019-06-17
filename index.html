@@ -31,12 +31,13 @@
 
         data.forEach(function(d) {
           d.date = dateFormat(new Date(d.date))
+          d.id = Number(d.id)
         })
 
         var ndx = crossfilter(data)
 
         var dateDimension = ndx.dimension(function(d) {
-          return d.date
+          return d.name
         })
 
         csvTable
@@ -44,7 +45,13 @@
 
           .size(100)
 
-          .columns(['date', 'payee', 'category', 'account', 'amount'])
+          .columns(['id', 'date', 'payee', 'category', 'account', 'amount'])
+
+          .sortBy(function(d) {
+            return d.id
+          })
+
+          .order(d3.ascending)
 
         csvTable.render()
       })
