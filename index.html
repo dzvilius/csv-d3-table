@@ -27,6 +27,12 @@
       var csvTable = dc.dataTable('#csvTable')
 
       d3.csv('./assets/data/transactions.csv').then(function(data) {
+        var dateFormat = d3.timeFormat('%d/%m/%Y')
+
+        data.forEach(function(d) {
+          d.date = dateFormat(new Date(d.date))
+        })
+
         var ndx = crossfilter(data)
 
         var dateDimension = ndx.dimension(function(d) {
