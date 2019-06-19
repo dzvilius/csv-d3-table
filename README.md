@@ -1,4 +1,4 @@
-# Visualise CSV with D3.js and DC.js
+# CSV data with D3 and DC
 
 Load CSV file and visualise data using D3.js and DC.js libraries.
 
